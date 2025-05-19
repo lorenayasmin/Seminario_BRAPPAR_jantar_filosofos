@@ -1,9 +1,9 @@
 # Seminario_BRAPPAR_jantar_filosofos
 
-#Seminário de programação paralela com o tema:
+# Seminário de programação paralela com o tema:
 2. Jantar dos Filósofos com Prioridades Dinâmicas
 
-#Equipe:
+# Equipe:
 Lorena Yasmin
 Nicoly Souza
 Kevin Mukanda
