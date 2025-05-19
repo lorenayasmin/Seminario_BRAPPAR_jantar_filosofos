@@ -4,6 +4,6 @@
 2. Jantar dos Filósofos com Prioridades Dinâmicas
 
 # Equipe:
-Lorena Yasmin
-Nicoly Souza
-Kevin Mukanda
+Lorena Yasmin \n
+Nicoly Souza \n
+Kevin Mukanda \n
